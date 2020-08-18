@@ -3,7 +3,8 @@
 C like Moduler Numbers in javascript
 
 Super Lightweight - Zero dependency library for Moduler Numbers
-Installation:
+
+###### Installation:
 
 ```sh
   npm install https://github.com/yniks/moduler-numbers.git
