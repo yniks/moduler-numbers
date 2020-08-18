@@ -1,18 +1,19 @@
 # moduler-numbers
+
 C like Moduler Numbers in javascript
 
 Super Lightweight - Zero dependency library for Moduler Numbers
 Installation:
+
 ```sh
   npm install https://github.com/yniks/moduler-numbers.git
 ```
 
+## Example Imports:
 
-
-Example Imports:
 ```javascript
-  //EXAMPLE TO IMPORTS
-  let {
+//EXAMPLE TO IMPORTS
+let {
 	Int8u,
 	Int16u,
 	Int8,
@@ -23,17 +24,19 @@ Example Imports:
 	Float64,
 	Int64,
 	Int64u,
-  }=require('moduler-numbers')
+} = require("moduler-numbers");
 ```
 
-List Possible Number Types
+## List Possible Number Types
+
 ```javascript
   //GET A DICTORNARY OF ALL POSSIBLE NUMBER TYPES
   LET {types}=require('moduler-numbers')
-  
+
 ```
 
-USAGE:
+## Usage:
+
 ```javascript
   var {Int8u as char}=require('moduler-numbers')
   var modulerValue=char`257` //or char('256')
