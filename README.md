@@ -1,6 +1,6 @@
 # moduler-numbers
 
-C like Moduler Numbers in javascript
+### C like Moduler Numbers in javascript
 
 Super Lightweight - Zero dependency library for Moduler Numbers
 
