@@ -1,5 +1,7 @@
 # moduler-numbers
-
+```diff
+- Depreciated
+```
 ### C like Moduler Numbers in javascript
 
 Super Lightweight - Zero dependency library for Moduler Numbers
